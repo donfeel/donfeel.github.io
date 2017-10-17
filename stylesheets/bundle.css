@@ -4774,6 +4774,10 @@ ul, li {
   margin-bottom: .45rem;
 }
 
+.slide-2 .item-intro {
+  line-height: .4rem;
+}
+
 .slide-2 .item-intro:before {
   content: '';
   width: .2rem;
@@ -4791,7 +4795,7 @@ ul, li {
   width: .2rem;
   height: .2rem;
   position: absolute;
-  margin-top: .2rem;
+  margin-top: .28rem;
   background-repeat: no-repeat;
   background-size: contain;
   background-image: url("../images/rb.png");
@@ -5071,6 +5075,13 @@ ul, li {
 
 .slide-6 .item-content .step:nth-of-type(5) .desc {
   margin-left: -.3rem;
+}
+
+.slide-7 .item-title {
+  margin: .5rem auto;
+  width: 5rem;
+  height: 1rem;
+  text-align: center;
 }
 
 .slide-7 .item-content {
