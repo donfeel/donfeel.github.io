@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="4978.189 204.117 111.606 128.871">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 2.5px;
+      }
+    </style>
+  </defs>
+  <path id="hexagon" class="cls-1" d="M0,66.928,31.5,12.375H94.49l31.494,54.553L94.49,121.482H31.5Z" transform="translate(5100.921 205.561) rotate(90)"/>
+</svg>
