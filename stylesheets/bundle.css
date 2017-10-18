@@ -4910,7 +4910,7 @@ ul, li {
   font-family: pmzd;
   width: 2rem;
   height: 2rem;
-  padding: .6rem .5rem;
+  padding: .6rem .4rem;
   vertical-align: middle;
   text-align: center;
   line-height: .4rem;
@@ -4983,19 +4983,27 @@ ul, li {
 }
 
 .slide-5 .item-content .office-shot:nth-of-type(3) {
-  background-image: url("../images/office3.jpeg");
+  background-image: url("../images/office3.png");
 }
 
 .slide-5 .item-content .office-shot:nth-of-type(4) {
-  -webkit-transform: rotate(330deg);
-          transform: rotate(330deg);
   background-image: url("../images/office4.png");
 }
 
 .slide-5 .item-content .office-shot:nth-of-type(5) {
-  -webkit-transform: rotate(350deg);
-          transform: rotate(350deg);
   background-image: url("../images/office5.png");
+}
+
+.slide-5 .item-content .office-shot:nth-of-type(6) {
+  background-image: url("../images/office6.png");
+}
+
+.slide-5 .item-content .office-shot:nth-of-type(7) {
+  background-image: url("../images/office7.png");
+}
+
+.slide-5 .item-content .office-shot:nth-of-type(8) {
+  background-image: url("../images/office8.png");
 }
 
 .slide-6 .item-title {
@@ -5266,10 +5274,10 @@ ul, li {
 
 .slide-9 .slogan {
   color: #1ccdea;
-  margin-top: .5rem;
+  margin-top: .3rem;
   text-align: center;
   width: 100%;
-  font-size: .38rem;
+  font-size: .35rem;
 }
 
 .slide-9 .slogan span {
@@ -5317,4 +5325,14 @@ ul, li {
 
 .slide-9 .info span {
   color: #fff;
+}
+
+.slide-9 .logos-min {
+  margin-top: .18rem;
+  width: 100%;
+  height: .8rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-image: url("../images/logos.png");
 }
