@@ -4972,14 +4972,10 @@ ul, li {
 
 .slide-5 .item-content .office-shot:nth-of-type(1) {
   background-image: url("../images/office1.jpeg");
-  -webkit-transform: rotate(15deg);
-          transform: rotate(15deg);
 }
 
 .slide-5 .item-content .office-shot:nth-of-type(2) {
   background-image: url("../images/office2.png");
-  -webkit-transform: rotate(5deg);
-          transform: rotate(5deg);
 }
 
 .slide-5 .item-content .office-shot:nth-of-type(3) {
@@ -5104,7 +5100,7 @@ ul, li {
 }
 
 .slide-7 .item-content .note {
-  font-size: .36rem;
+  font-size: .4rem;
   text-align: center;
   width: 100%;
   color: #1ccdea;
